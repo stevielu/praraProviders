@@ -1,0 +1,6 @@
+framework module SwiftR {
+  umbrella header "SwiftR-umbrella.h"
+
+  export *
+  module * { export * }
+}

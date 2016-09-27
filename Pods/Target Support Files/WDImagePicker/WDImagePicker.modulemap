@@ -1,0 +1,6 @@
+framework module WDImagePicker {
+  umbrella header "WDImagePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

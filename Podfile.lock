@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (3.5.0)
+  - JSQMessagesViewController (7.3.4):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - Kingfisher (2.6.0)
+  - ReachabilitySwift (2.4)
+  - Realm (1.1.0):
+    - Realm/Headers (= 1.1.0)
+  - Realm/Headers (1.1.0)
+  - RealmSwift (1.1.0):
+    - Realm (= 1.1.0)
+  - SKPhotoBrowser (3.1.2)
+  - SnapKit (0.20.0)
+  - SwiftR (0.11.0)
+  - SwiftyJSON (2.3.2)
+  - WDImagePicker (0.2.2)
+  - ZHDropDownMenu (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - JSQMessagesViewController
+  - Kingfisher (~> 2.2)
+  - ReachabilitySwift (~> 2.3)
+  - RealmSwift (~> 1.0)
+  - SKPhotoBrowser
+  - SnapKit (~> 0.20.0)
+  - SwiftR (~> 0.11.0)
+  - SwiftyJSON
+  - WDImagePicker (from `https://github.com/justwudi/WDImagePicker.git`, tag `0.2.2`)
+  - ZHDropDownMenu
+
+EXTERNAL SOURCES:
+  WDImagePicker:
+    :git: https://github.com/justwudi/WDImagePicker.git
+    :tag: 0.2.2
+
+CHECKOUT OPTIONS:
+  WDImagePicker:
+    :git: https://github.com/justwudi/WDImagePicker.git
+    :tag: 0.2.2
+
+SPEC CHECKSUMS:
+  Alamofire: b70a7352335f8ea5babd0a923eb7e8eacc67b877
+  JSQMessagesViewController: 39fed975e3c9f8eba7292071e29eeb541d105e66
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  Kingfisher: d84c5fd176ea86cc7b8aac65fd55feda6f70f130
+  ReachabilitySwift: dc7452dab85ff881904215e1a113326ad8d07beb
+  Realm: ceecf1a4540c4ce9efe196fe73fa9855bce05bd8
+  RealmSwift: 838058b2db95b12cb86bd0cf209df642c33fb60a
+  SKPhotoBrowser: e942c03c3206b5cf229fd4ce56b872bce800124a
+  SnapKit: 5fce3c1bbbf1fbd31de9aa92f33eb9fa03f15650
+  SwiftR: ca673192015b7e4724eb67e6ac64ab13fe069599
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  WDImagePicker: 0014e231d67a63db9a97db74332a8a16723809bc
+  ZHDropDownMenu: aa2917b07820b9eba3dc98066f85257017821b65
+
+PODFILE CHECKSUM: 23a5834185a9bef1ed9ef122f4e6f82fc2ca9723
+
+COCOAPODS: 1.0.1
